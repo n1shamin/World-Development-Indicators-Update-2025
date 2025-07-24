@@ -1,5 +1,6 @@
 # World-Development-Indicators-Update-2025
 This repo contains scripts for World Developement Indicators (WDI) data pulling task. 
+https://pardeewiki.du.edu/index.php?title=World_Development_Indicators,_World_Bank 
 
 # WDI_Country  
 Excel includes the country concordance for the World Bank vs IFs Country.
